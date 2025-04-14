@@ -1,0 +1,17 @@
+Pruebas Realizadas – Proyecto Sistema Inteligente de Transporte Masivo
+
+1. Prueba de carga del dataset:
+   ✔ Dataset cargado correctamente desde archivo CSV.
+
+2. Prueba de codificación:
+   ✔ Variables categóricas (Inicio, Destino, Congestión) convertidas correctamente a valores numéricos.
+
+3. Prueba de entrenamiento del modelo:
+   ✔ El modelo de regresión lineal fue entrenado con éxito con un conjunto de datos de entrenamiento.
+
+4. Prueba de predicción:
+   ✔ Se realizaron predicciones sobre el conjunto de prueba.
+   ✔ Error cuadrático medio (MSE) calculado correctamente.
+
+5. Validación de resultados:
+   ✔ Las predicciones se compararon con los valores reales y mostraron resultados coherentes.

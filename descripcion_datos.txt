@@ -1,0 +1,9 @@
+Descripción de los Datos del Proyecto de Transporte Masivo
+
+- Inicio: Estación de partida (A, B o C).
+- Destino: Estación de llegada (A, B o C).
+- Hora: Hora del día (en formato de 24 horas).
+- Congestión: Nivel de tráfico (Bajo, Medio, Alto).
+- Tiempo (minutos): Tiempo total estimado o real del trayecto.
+
+Los datos fueron simulados para representar distintos escenarios en un sistema de transporte urbano. Este dataset permite entrenar un modelo que predice el tiempo de viaje basado en condiciones típicas del sistema.

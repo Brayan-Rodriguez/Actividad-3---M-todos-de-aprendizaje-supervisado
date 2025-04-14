@@ -1,0 +1,11 @@
+Inicio,Destino,Hora,Congestion,Tiempo (minutos)
+A,B,8,Bajo,10
+A,C,9,Alto,20
+B,C,8,Medio,15
+B,A,10,Bajo,25
+C,A,7,Alto,30
+C,B,9,Medio,15
+A,C,16,Bajo,35
+B,A,15,Medio,20
+C,B,14,Alto,18
+A,C,13,Bajo,40
